@@ -1,0 +1,6 @@
+c:\users\jbrugger\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+c:\users\jbrugger\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\diffLcs.exe.config
+c:\users\jbrugger\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\diffLcs.exe
+c:\users\jbrugger\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\diffLcs.pdb
+c:\users\jbrugger\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\diffLcs.exe
+c:\users\jbrugger\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\diffLcs.pdb
