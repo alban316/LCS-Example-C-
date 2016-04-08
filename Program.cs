@@ -67,11 +67,17 @@ namespace ConsoleApplication4
             }
 
 
-
+            //list all the matched substrings
             foreach (var item in match)
             {
                 Console.WriteLine(item);
             }
+
+            //now just show the longest...
+            Console.WriteLine("\n{0}", match.OrderByDescending(m => m.Length).First());
+
+
+            Console.ReadKey(true);
 
         }
     }
